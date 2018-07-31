@@ -1,2 +1,2 @@
 # golang
-golang study
+golang study, test
